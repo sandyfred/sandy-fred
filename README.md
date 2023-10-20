@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Sandy
-I'm a Software Engineer interested in building awesome products and experiences. I'm an Electrical Engineer by degree but Developer by passion.
-Skilled in Java and JavaScript. Hands-on Experience in building multiple projects using MERN stack.
+I'm a Software Engineer interested in building awesome products and experiences.
 
 ## Tools and Technology
 <img align="left" alt="Java" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
